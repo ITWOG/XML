@@ -1,0 +1,29 @@
+Type: Bug
+Priority: Major
+Components: None
+Labels: None
+Status: Open
+Resolution: Unresolved
+Fix Versions: None
+
+Description
+
+Note 1: This issue occurs in the Beta environment.
+Note 2: The issue occurs only with the Profile photo.
+
+Preconditions:
+1. An app is installed
+2. The User is logged in
+
+Steps to reproduce:
+1. Launch an app 
+2. Click on 'edit user's profile'
+3. Click on 'add profile picture'
+4. Pick and upload a disered picture
+5. Click on 'Save changes'
+
+Expected result: Profile picture is uploaded
+
+Actual result: Nothing happened
+
+For more details, please consider the attachment below.
